@@ -1,0 +1,14 @@
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\bin\Debug\net8.0\ПоискПростыхЧисел.exe
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\bin\Debug\net8.0\ПоискПростыхЧисел.deps.json
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\bin\Debug\net8.0\ПоискПростыхЧисел.runtimeconfig.json
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\bin\Debug\net8.0\ПоискПростыхЧисел.dll
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\bin\Debug\net8.0\ПоискПростыхЧисел.pdb
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\obj\Debug\net8.0\ПоискПростыхЧисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\obj\Debug\net8.0\ПоискПростыхЧисел.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\obj\Debug\net8.0\ПоискПростыхЧисел.AssemblyInfo.cs
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\obj\Debug\net8.0\ПоискПростыхЧисел.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\obj\Debug\net8.0\ПоискПростыхЧисел.dll
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\obj\Debug\net8.0\refint\ПоискПростыхЧисел.dll
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\obj\Debug\net8.0\ПоискПростыхЧисел.pdb
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\obj\Debug\net8.0\ПоискПростыхЧисел.genruntimeconfig.cache
+C:\Users\777\Desktop\ПоискПростыхЧисел\ПоискПростыхЧисел\obj\Debug\net8.0\ref\ПоискПростыхЧисел.dll
